@@ -38,8 +38,6 @@
   
 ### 🧩 Leetcode Status
 
-[![LeetCode Stats]
----
 (![LeetCode Stats](https://leetcard.jacoblin.cool/bharath-12?theme=dark&font=Tinos&ext=heatmap))
 
 
