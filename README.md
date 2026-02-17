@@ -8,7 +8,7 @@
 
 
 - 💻 Exploring DSA while incorporating AI into my daily workflow
-- 📫 How to reach me : [bharath567553@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
+- 📫 How to reach me : [bharath567553@gmail.com](https://mail.google.com/mail/u/1/#inbox)
 - 🌍 **Social Presence**
 
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/home)
