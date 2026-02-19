@@ -1,7 +1,7 @@
 # Hi there 🖖 It's  me  BHARATH K
 
   
-<img  align="right"  width="250"  height="250"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBjcHdyNGJobDFvaWg2NHlmN2QzdTUyenN0ZzlqejE2Z3ZncHZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif">
+<img  align="right"  width="370"  height="370"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlpNzQ0dTJldXF3NnhmenJuNDNyeXlhMThoNjJxcmthNmUxM2Z5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LZ5vlsR35s51qNWJxB/giphy.gif">
 
 
 ### Software Engineer @ Earth
@@ -29,11 +29,6 @@
 
 <img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/><img width="50" height="50" src="https://img.icons8.com/color/48/intellij-idea.png" /><img  height="50"  width="50"  src="https://img.icons8.com/officel/480/null/java-eclipse.png"/><img width="50" height="50" src="https://img.icons8.com/fluency/48/spyder-ide-5.png" /><img  height="50"  width="50"  src="https://img.icons8.com/color/50/000000/git.png"/><img  height="50"  width="50"  src="https://img.icons8.com/color/480/null/notion--v1.png"  /><img  height="50"  width="50"  src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/><img  height="50"  width="50"  src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img  height="50"  width="50"  src="https://img.icons8.com/color/48/microsoft-excel-2025.png"  /><img  height="50"  width="50"  src="https://img.icons8.com/fluency/48/power-bi-2021.png"  /><img width="50" height="50" src="https://img.icons8.com/fluency/48/canva.png" /><img width="50" height="50" src="https://img.icons8.com/fluency/48/google-keep-new.png" />
 
-  
-  
-### 💻 Workspace Spec
-
-<img  height="30"  src="https://img.shields.io/badge/Lenovo-IdeaPad_Gaming_3-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>  <img  height="30"  src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000000e872068fecaca3e7bade5d&ts=492089&p=fs&cid=1&sig=757390696daebdcae060ded77f40ba4598150e30d93f6b9a0c8e7b64f21cfebb&v=0"/>  <img  height="30"  src="https://img.shields.io/badge/AMD-Ryzen_5_6600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
   
 ### 🧩 Leetcode Status
