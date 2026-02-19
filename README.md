@@ -33,7 +33,7 @@
   
 ### 💻 Workspace Spec
 
-<img  height="30"  src="https://img.shields.io/badge/Lenovo-IdeaPad_Gaming_3-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>  <img  height="30"  src="https://img.shields.io/badge/NVIDIA-RTX_3050-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img  height="30"  src="https://img.shields.io/badge/AMD-Ryzen_5_6600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+<img  height="30"  src="https://img.shields.io/badge/Lenovo-IdeaPad_Gaming_3-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"/>  <img  height="30"  src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000000e872068fecaca3e7bade5d&ts=492089&p=fs&cid=1&sig=757390696daebdcae060ded77f40ba4598150e30d93f6b9a0c8e7b64f21cfebb&v=0"/>  <img  height="30"  src="https://img.shields.io/badge/AMD-Ryzen_5_6600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 
   
 ### 🧩 Leetcode Status
