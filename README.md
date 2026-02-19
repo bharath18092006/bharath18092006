@@ -1,7 +1,7 @@
 # Hi there 🖖 It's  me  BHARATH K
 
   
-<img  align="right"  width="370"  height="370"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTlpNzQ0dTJldXF3NnhmenJuNDNyeXlhMThoNjJxcmthNmUxM2Z5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LZ5vlsR35s51qNWJxB/giphy.gif">
+<img  align="right"  width="370"  height="370"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBjcHdyNGJobDFvaWg2NHlmN2QzdTUyenN0ZzlqejE2Z3ZncHZ2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif">
 
 
 ### Software Engineer @ Earth
